@@ -1,4 +1,4 @@
-#Stream 001 (21-07-2020)    
+# Stream 001 (21-07-2020)    
 
 - Valorant Academy: La app de la que vamos a estar hablando
     - comunicacion con API (Network)
